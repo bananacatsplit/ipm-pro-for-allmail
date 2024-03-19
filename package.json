@@ -1,0 +1,23 @@
+{
+  "name": "ipm-pro-for-allmail",
+  "version": "1.0.0",
+  "description": "Improve your email management with advanced features for all-mail processing.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bananacatsplit/ipm-pro-for-allmail"
+  },
+  "author": "bananacatsplit",
+  "license": "MIT",
+  "dependencies": {
+    "allmail-autosenders": "1.0.0",
+    "ipm-pro-for-allmail": "1.0.0",
+    "jest": "1.0.0",
+    "supertest": "1.0.0",
+    "dotenv": "1.0.0",
+    "firebase": "1.0.0"
+  }
+}
